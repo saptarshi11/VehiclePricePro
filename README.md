@@ -1,5 +1,5 @@
-# Auto-Price-Insights
-Auto Price Insights is a machine learning-based car price prediction tool that utilizes various data points and algorithms to estimate the value of a car. By analyzing factors such as the car's make and model, year, mileage, condition, and other relevant data, AutoValuate provides users with an accurate estimate of the car's market value.
+# VehiclePricePro
+VehiclePricePro is a machine learning-based car price prediction tool that utilizes various data points and algorithms to estimate the value of a car. By analyzing factors such as the car's make and model, year, mileage, condition, and other relevant data, AutoValuate provides users with an accurate estimate of the car's market value.
 This project is an implementation of the Random Forest Algorithm 
 to predict car prices based on various features.
 
