@@ -23,6 +23,7 @@ To install the required libraries, run the following command:
 
 
 Algorithm
+
 The Random Forest Algorithm is an ensemble learning technique that 
 combines multiple decision trees to improve the accuracy and reduce the variance of the model. 
 In this project, we train a Random Forest Regressor to predict the car prices. 
