@@ -6,7 +6,7 @@ to predict car prices based on various features.
 Dataset
 The dataset used in this project is sourced from Kaggle. 
 It consists of car specifications such as make, model, year, engine type, fuel type, etc.
-and the corresponding prices. The dataset has 205 observations and 26 columns.
+and the corresponding prices. 
 
 Requirements
 The following libraries are required to run the code:
@@ -23,8 +23,4 @@ To install the required libraries, run the following command:
 
 
 Algorithm
-
-The Random Forest Algorithm is an ensemble learning technique that 
-combines multiple decision trees to improve the accuracy and reduce the variance of the model. 
-In this project, we train a Random Forest Regressor to predict the car prices. 
-The hyperparameters of the model are optimized using Grid Search Cross-Validation.
+I'll use various machine learning algorithms to predict the price of used cars.
